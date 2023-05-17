@@ -1,2 +1,1 @@
-# single-page-application
-creating my own single page application with TS or JS (undecided)
+I am just trying to learn how to make my own SPA just to learn more about how SPA works.
